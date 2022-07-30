@@ -7,7 +7,6 @@
   <a href="https://onelink.to/4hqx4x"><img src="https://i.imgur.com/l5k9q1F.png"></a>
   <a href="https://onelink.to/2erbxw"><img src="https://i.imgur.com/0sJbOI0.png"></a>
   <a href="https://play.google.com/store/apps/details?id=com.capt.data"><img src="https://i.imgur.com/mw21eZT.png"></a>
-  <a href=""><img src="https://i.imgur.com/DPJfYXv.png"></a>
 </div>
 
 <p>🇺🇸 Hybrid apps created for clients using React Native for the frontend and PHP with Laravel for the backend. Every backend was created by the team at <a href="https://github.com/TageeTech"><b>TageeTech</b></a></p>
