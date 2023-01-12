@@ -14,9 +14,9 @@
 <p>🇧🇷 Aplicativos híbridos criados para clientes utilizando React Native para o front-end e PHP com Laravel para o backend. Todo backend foi criado pela equipe da <a href="https://github.com/TageeTech"><b>TageeTech</b></a></p>
 
 <h2>About me</h2>
-<p>🇺🇸 I have been passionate about technology since childhood. Working with programming has always been a dream, and today it is my reality. I've been a Front-end developer for 3 years using JavaScript with the React Framework, I love creating mobile apps - and websites too.</p>
+<p>🇺🇸 I have been passionate about technology since childhood. Working with programming has always been a dream, and today it is my reality. I've been a Front-end developer for 2 years using JavaScript with the React Framework, I love creating mobile apps - and websites too.</p>
 
-<p>🇧🇷 Sou apaixonado por tecnologia desde criança. Trabalhar com programação sempre foi um sonho, e hoje é a minha realidade. Sou desenvolvedor Front-end à 3 anos utilizando JavaScript com o Framework React, adoro criar aplicativos para celular - e sites também.</p>
+<p>🇧🇷 Sou apaixonado por tecnologia desde criança. Trabalhar com programação sempre foi um sonho, e hoje é a minha realidade. Sou desenvolvedor Front-end à 2 anos utilizando JavaScript com o Framework React, adoro criar aplicativos para celular - e sites também.</p>
 
 <h2>My social networks</h2>
 <div>
