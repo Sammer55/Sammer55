@@ -34,7 +34,7 @@ Desenvolvedor Front-end com quase 3 anos de experiência com foco em aplicaçõe
 
 ### Redes sociais
 <div>
-  <a href="https://www.linkedin.com/in/sammer-duarte"><img src="https://i.imgur.com/uCvS3jJ.png"></a>
-  <a href="https://api.whatsapp.com/send/?phone=5511957149860&text&type=phone_number&app_absent=0"><img src="https://i.imgur.com/aiEU1FD.png"></a> 
-  <a href="https://discordapp.com/users/Sammer+Duarte#0793"><img src="https://i.imgur.com/yhOF8JB.png"></a>
+  <a href="https://www.linkedin.com/in/sammer-duarte"><img width="87" src="https://i.imgur.com/uCvS3jJ.png"></a>
+  <a href="https://api.whatsapp.com/send/?phone=5511957149860&text&type=phone_number&app_absent=0"><img width="87" src="https://i.imgur.com/aiEU1FD.png"></a> 
+  <a href="https://discordapp.com/users/Sammer+Duarte#0793"><img width="87" src="https://i.imgur.com/yhOF8JB.png"></a>
 </div> 
