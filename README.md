@@ -1,34 +1,40 @@
 <img src="https://i.imgur.com/fopCE2d.png" alt="Banner">
 
-<h2>Portfolio</h2>
+## Aplicativos que desenvolvi
 
 <div>
-  <a href="https://onelink.to/99afmy"><img src="https://i.imgur.com/GJTXTxj.png"></a>
-  <a href="https://onelink.to/4hqx4x"><img src="https://i.imgur.com/l5k9q1F.png"></a>
-  <a href="https://onelink.to/2erbxw"><img src="https://i.imgur.com/0sJbOI0.png"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.capt.data"><img src="https://i.imgur.com/mw21eZT.png"></a>
+  <a title="Lion Tax - Imposto de renda" href="https://lion.tax/"><img width="87" src="https://i.imgur.com/6CjUX2h.png"></a>
+  <a title="CSD Real - Relacionamentos" href=""><img width="87" src="https://i.imgur.com/c4CPlmr.png"></a>
+  <a title="Airsoft Commander - Equipes e eventos" href=""><img width="87" src="https://i.imgur.com/TSpXzii.png"></a>
+  <a title="ARJ - Administração Judicial" href=""><img width="87" src="https://i.imgur.com/m35Hek9.png"></a>
+  <a title="Begrato - Rede social de turismo" href="https://www.begrato.com/"><img width="87" src="https://i.imgur.com/G1pKDow.png"></a>
+  <a title="Cami - Carretos e mudanças" href="https://camionline.com.br/"><img width="87" src="https://i.imgur.com/eri7Xij.png"></a>
+  <a title="Capt Data - Amostras de solo" href=""><img width="87" src="https://i.imgur.com/Ipt72fw.png"></a>
 </div>
 
-<p>🇺🇸 Hybrid apps created for clients using React Native for the frontend and PHP with Laravel for the backend. Every backend was created by the team at <a href="https://github.com/TageeTech"><b>TageeTech</b></a></p>
+### Sobre os aplicativos
 
-<p>🇧🇷 Aplicativos híbridos criados para clientes utilizando React Native para o front-end e PHP com Laravel para o backend. Todo backend foi criado pela equipe da <a href="https://github.com/TageeTech"><b>TageeTech</b></a></p>
+**Techs utilizadas na Web**: ReactJS, JavaScript, TypeScript, HTML, CSS e NextJS.
 
-<h2>About me</h2>
-<p>🇺🇸 I have been passionate about technology since childhood. Working with programming has always been a dream, and today it is my reality. I've been a Front-end developer for 2 years using JavaScript with the React Framework, I love creating mobile apps - and websites too.</p>
+**Techs utilizadas no Mobile**: React Native, JavaScript, TypeScript e CSS.
 
-<p>🇧🇷 Sou apaixonado por tecnologia desde criança. Trabalhar com programação sempre foi um sonho, e hoje é a minha realidade. Sou desenvolvedor Front-end à 2 anos utilizando JavaScript com o Framework React, adoro criar aplicativos para celular - e sites também.</p>
+**Integração com Backend**: Consumo de API Rest, Firebase e Socket.io.
 
-<h2>My social networks</h2>
+**Algumas bibliotecas**: axios, react-query, react-hook-form, styled-components, date-fns, react-i18next.
+
+**Padronização de código**: Eslint, Prettier, Clean Code.
+
+**Scrum e Kanban**: Sprints, Planning, Daily. Jira, Clickup, Trello.
+
+**Git**: Git, Github, Azure DevOps.
+
+### Sobre mim
+
+Desenvolvedor Front-end com quase 3 anos de experiência com foco em aplicações mobile utilizando React Native. Busco constantemente expandir meu conhecimento e aplicá-lo de maneira significativa no desenvolvimento de soluções que causem um impacto positivo.
+
+### Redes sociais
 <div>
-  <a href="https://www.linkedin.com/in/sammer-duarte-850410114"><img src="https://i.imgur.com/eoMpi2u.png"></a>
-  <a href="https://contate.me/tagee.tech"><img src="https://i.imgur.com/Rzyug9n.png"></a> 
-  <a href="https://discordapp.com/users/Sammer+Duarte#0793"><img src="https://i.imgur.com/Qb0hnAz.png"></a>
+  <a href="https://www.linkedin.com/in/sammer-duarte"><img src="https://i.imgur.com/dmOKm1D.png"></a>
+  <a href="https://api.whatsapp.com/send/?phone=5511957149860&text&type=phone_number&app_absent=0"><img src="https://i.imgur.com/1fJwZh6.png"></a> 
+  <a href="https://discordapp.com/users/Sammer+Duarte#0793"><img src="https://i.imgur.com/yeCxyAx.png"></a>
 </div> 
-
-<h2>Technologies I use</h2>
-<div>
-  <img src="https://i.imgur.com/EwHfSHg.png">
-  <img src="https://i.imgur.com/zJvWL01.png">
-  <img src="https://i.imgur.com/TkXuf7z.png">
-  <img src="https://i.imgur.com/QWzmU8H.png">
-</div>
