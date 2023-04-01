@@ -12,7 +12,7 @@
   <a title="Capt Data - Amostras de solo" href=""><img width="87" src="https://i.imgur.com/Ipt72fw.png"></a>
 </div>
 
-### Sobre os aplicativos
+### Sobre as tecnologias
 
 **Techs utilizadas na Web**: ReactJS, JavaScript, TypeScript, HTML, CSS e NextJS.
 
