@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/fssgzVk.png" alt="Banner">
+<img src="https://i.imgur.com/fopCE2d.png" alt="Banner">
 
 <h2>Portfolio</h2>
 
