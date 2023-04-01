@@ -5,7 +5,7 @@
 <div>
   <a title="Lion Tax - Imposto de renda" href="https://lion.tax/"><img width="87" src="https://i.imgur.com/6CjUX2h.png"></a>
   <a title="CSD Real - Relacionamentos" href=""><img width="87" src="https://i.imgur.com/c4CPlmr.png"></a>
-  <a title="Airsoft Commander - Equipes e eventos" href=""><img width="87" src="https://i.imgur.com/TSpXzii.png"></a>
+  <a title="Airsoft Commander - Equipes e eventos" href=""><img width="87" src="https://i.imgur.com/qGODwHW.png"></a>
   <a title="ARJ - Administração Judicial" href=""><img width="87" src="https://i.imgur.com/m35Hek9.png"></a>
   <a title="Begrato - Rede social de turismo" href="https://www.begrato.com/"><img width="87" src="https://i.imgur.com/G1pKDow.png"></a>
   <a title="Cami - Carretos e mudanças" href="https://camionline.com.br/"><img width="87" src="https://i.imgur.com/eri7Xij.png"></a>
