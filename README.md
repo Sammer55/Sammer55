@@ -3,7 +3,7 @@
 ## Aplicativos que desenvolvi
 
 <div>
-  <a title="Lion Tax - Imposto de renda" href="https://lion.tax/"><img width="87" src="https://i.imgur.com/Otav50H.png"></a>
+  <a target="_blank" title="Lion Tax - Imposto de renda" href="https://lion.tax/"><img width="87" src="https://i.imgur.com/Otav50H.png"></a>
   <a title="CSD Real - Relacionamentos" href=""><img width="87" src="https://i.imgur.com/oroROu0.png"></a>
   <a title="Airsoft Commander - Equipes e eventos" href=""><img width="87" src="https://i.imgur.com/qGODwHW.png"></a>
   <a title="ARJ - Administração Judicial" href=""><img width="87" src="https://i.imgur.com/DjLMmR8.png"></a>
