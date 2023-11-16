@@ -12,7 +12,6 @@
   <a target="_blank" title="Logbeen - Lembranças" href="https://www.sammer.website/logbeen"><img width="87" src="https://i.imgur.com/1C5BUy4.png"></a>
   <a target="_blank" title="Capt Data - Amostras de solo" href="https://www.sammer.website/capt-data"><img width="87" src="https://i.imgur.com/RrgDO5u.png"></a>
   <a target="_blank" title="AdvLink - Advocacia" href="https://www.sammer.website/advlink"><img width="87" src="https://i.imgur.com/XIhwY2Y.png"></a>
-  <a target="_blank" title="Cenbrap - Portal do aluno" href="https://www.sammer.website/cenbrap"><img width="87" src="https://i.imgur.com/u2CcSwn.png"></a>
 </div>
 
 ### Technologies I work with
