@@ -1,40 +1,41 @@
-<img src="https://i.imgur.com/fopCE2d.png" alt="Banner">
+<img src="https://imgur.com/PmxVqnQ.png" alt="Banner">
 
-## Aplicativos que desenvolvi
+## Some of the projects I worked on
 
 <div>
-  <a target="_blank" title="Lion Tax - Imposto de renda" href="https://lion.tax/"><img width="87" src="https://i.imgur.com/Otav50H.png"></a>
-  <a title="CSD Real - Relacionamentos" href=""><img width="87" src="https://i.imgur.com/oroROu0.png"></a>
-  <a title="Airsoft Commander - Equipes e eventos" href=""><img width="87" src="https://i.imgur.com/qGODwHW.png"></a>
-  <a title="ARJ - Administração Judicial" href=""><img width="87" src="https://i.imgur.com/DjLMmR8.png"></a>
-  <a title="Begrato - Rede social de turismo" href="https://www.begrato.com/"><img width="87" src="https://i.imgur.com/ygrf4XY.png"></a>
-  <a title="Cami - Carretos e mudanças" href="https://camionline.com.br/"><img width="87" src="https://i.imgur.com/8NpANaN.png"></a>
-  <a title="Capt Data - Amostras de solo" href=""><img width="87" src="https://i.imgur.com/TfgDrNA.png"></a>
+  <a target="_blank" title="CSD Real - Relacionamentos" href="https://www.sammer.website/csd-real"><img width="87" src="https://i.imgur.com/9oOG7eV.png"></a>
+  <a target="_blank" title="Lion Tax - Imposto de renda" href="https://www.sammer.website/lion-tax"><img width="87" src="https://i.imgur.com/izTnNnj.png"></a>
+  <a target="_blank" title="Airsoft Commander - Equipes e eventos" href="https://www.sammer.website/airsoft-commander"><img width="87" src="https://i.imgur.com/TORrqcG.png"></a>
+  <a target="_blank" title="Begrato - Rede social de turismo" href="https://www.sammer.website/begrato"><img width="87" src="https://i.imgur.com/t2D6yLP.png"></a>
+  <a target="_blank" title="Cami - Carretos e mudanças" href="https://www.sammer.website/cami"><img width="87" src="https://i.imgur.com/Y005KvO.png"></a>
+  <a target="_blank" title="ARJ - Administração Judicial" href="https://www.sammer.website/arj"><img width="87" src="https://i.imgur.com/E2R2MN8.png"></a>
+  <a target="_blank" title="Logbeen - Lembranças" href="https://www.sammer.website/logbeen"><img width="87" src="https://i.imgur.com/1C5BUy4.png"></a>
+  <a target="_blank" title="Capt Data - Amostras de solo" href="https://www.sammer.website/capt-data"><img width="87" src="https://i.imgur.com/RrgDO5u.png"></a>
+  <a target="_blank" title="AdvLink - Advocacia" href="https://www.sammer.website/advlink"><img width="87" src="https://i.imgur.com/XIhwY2Y.png"></a>
+  <a target="_blank" title="Cenbrap - Portal do aluno" href="https://www.sammer.website/cenbrap"><img width="87" src="https://i.imgur.com/u2CcSwn.png"></a>
 </div>
 
-### Sobre as tecnologias
+### Technologies I work with
 
-**Techs utilizadas na Web**: ReactJS, JavaScript, TypeScript, HTML, CSS e NextJS.
+**Programming**: HTML, CSS, JavaScript, TypeScript, NextJs (App Router and Pages Router), ReactJs and React Native.
 
-**Techs utilizadas no Mobile**: React Native, JavaScript, TypeScript e CSS.
+**API Integration**: API Rest, WebSockets (Socket.io), Firebase.
 
-**Integração com Backend**: Consumo de API Rest, Firebase e Socket.io.
+**Some libraries**: axios, react-query, react-hook-form, styled-components, date-fns, react-i18next, framer-motion, material-ui, antd, chakra-ui, tailwindcss.
 
-**Algumas bibliotecas**: axios, react-query, react-hook-form, styled-components, date-fns, react-i18next.
-
-**Padronização de código**: Eslint, Prettier, Clean Code.
+**Making the structure and code beautiful**: Eslint, Prettier, Clean code, Clean architecture.
 
 **Scrum e Kanban**: Sprints, Planning, Daily. Jira, Clickup, Trello.
 
-**Git**: Git, Github, Azure DevOps.
+**Git**: Git and Github.
 
-### Sobre mim
+### About me
 
-Desenvolvedor Front-end com quase 3 anos de experiência com foco em aplicações mobile utilizando React Native. Busco constantemente expandir meu conhecimento e aplicá-lo de maneira significativa no desenvolvimento de soluções que causem um impacto positivo.
+Front-end developer with 3 years of experience. Expert in HTML, CSS, JavaScript, TypeScript, ReactJs, React Native and NextJs.
 
-### Redes sociais
+### Social media
+
 <div>
-  <a href="https://www.linkedin.com/in/sammer-duarte"><img width="87" src="https://i.imgur.com/uCvS3jJ.png"></a>
-  <a href="https://api.whatsapp.com/send/?phone=5511957149860&text&type=phone_number&app_absent=0"><img width="87" src="https://i.imgur.com/aiEU1FD.png"></a> 
-  <a href="https://discordapp.com/users/Sammer+Duarte#0793"><img width="87" src="https://i.imgur.com/yhOF8JB.png"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/sammer-duarte"><img width="87" src="https://i.imgur.com/IQXyd7o.png"></a>
+  <a target="_blank" href="https://api.whatsapp.com/send/?phone=5511957149860&text&type=phone_number&app_absent=0"><img width="87" src="https://i.imgur.com/IW9Ch0t.png"></a> 
 </div> 
