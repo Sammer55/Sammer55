@@ -26,7 +26,7 @@
 
 **Scrum e Kanban**: Sprints, Planning, Daily. Jira, Clickup, Trello.
 
-**Git**: Git and Github.
+**Git**: Git, Github and Azure DevOps.
 
 ### About me
 
